@@ -150,13 +150,20 @@ body {
   justify-content: flex-start;
   padding: 50px;
   align-items: flex-end;
+  flex-wrap: wrap;
   top: 0;
-  background-color: var(--main-dark);
+}
+
+.home-image {
+  position: absolute;
+  right: 100px;
+  width: 600px;
+  top: 30px;
 }
 
 .home-page-wrapper h1 {
   font-weight: 700;
-  color: var(--main-light);
+  color: var(--main-dark);
   position: absolute;
   right: 50px;
   top: 30px;
@@ -173,7 +180,12 @@ body {
   width: 70%;
   margin-left: 100px;
   text-align: left;
-  color: var(--main-light);
+  color: var(--main-dark);
+}
+
+.home-page-wrapper h2 .welcome {
+  font-weight: 600;
+  font-size: 42px;
 }
 
 /**********************************/
@@ -287,9 +299,6 @@ body {
 /*SERVICES*/
 /**********************************/
 
-.services-wrapper {
-  /* top: 300vh; */
-}
 
 .services-items-wrapper {
   width: 100%;
@@ -416,9 +425,29 @@ body {
     padding: 50px 100px 50px 150px;
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-start;
+    align-items: center;
     justify-content: flex-start;
     height: 100vh;
+}
+
+.contact-form-wrapper .contact-text {
+  color: var(--main-light);
+  font-size: 26px;
+  font-weight: 200;
+  font-family: var(--main-font);
+  width: 70%;
+}
+
+.contact-form-wrapper .contact-text p {
+  margin-bottom: 60px;
+}
+
+
+.contact-form-wrapper .contact-text p a {
+  color: var(--main-light);
+  font-style: italic;
+  text-decoration: none;
+  font-weight: 600;
 }
 
 /**********************************/
@@ -537,3 +566,62 @@ body {
 
 
 
+@media only screen and (max-width: 600px) {
+  .menu-trigger-wrapper, .menu-container-wrapper {
+      display: none;
+  }
+
+  .section-wrapper {
+    height: auto;
+  }
+
+  .home-image {
+    position: absolute;
+    left: 0;
+    width: 400px;
+    bottom: 30px;
+    top: unset;
+    right: unset;
+  }
+
+  .home-page-wrapper {
+    align-items: center;
+    height: 100vh;
+    min-height: 100vh;
+    overflow-y: hidden;
+  }
+
+  .home-page-wrapper h2 {
+    margin: 0;
+    font-size: 22px;
+    width: 100%;
+    margin-bottom: 250px;
+  }
+
+  .home-page-wrapper h2 .welcome {
+    font-size: 26px;
+  }
+
+  .home-page-wrapper h1 {
+    font-size: 22px;
+  }
+
+  .services-items-wrapper, .contact-form-wrapper {
+    padding: 50px 20px;
+    width: 100%;
+    margin: 0;
+    height: auto;
+  }
+
+  .service-item-wrapper {
+    width: 100%;
+  }
+
+  .contact-form-wrapper .contact-text p {
+    font-size: 18px;
+  }
+
+  .contact-form-wrapper {
+    display: none;
+  }
+}

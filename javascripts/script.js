@@ -1,19 +1,4 @@
 window.onload = () => {
- 
-  const screenHeight = window.innerHeight;
-  let isScrolling;
-  window.addEventListener('scroll', () => {
-    let currentPosition = window.pageYOffset || document.documentElement.scrollTop;
-    window.clearTimeout( isScrolling );
-	    isScrolling = setTimeout(function() {
-      let positionRow = Math.round(currentPosition/screenHeight);
-      window.scroll({
-        top: screenHeight*positionRow, left: 0, 
-        behavior: 'smooth' 
-      });
-	  }, 20);
-  })
-
   const menuTrigger = document.getElementById('menu-trigger');
   if (menuTrigger) {
     const menuColumn = document.getElementById('menu-column');
