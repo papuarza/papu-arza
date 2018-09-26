@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "company": "Budweiser",
+      "type": "Desarrollo Web",
+      "description": "Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas. Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas.",
+      "background": "#47110A",
+      "image": ""
+    }, 
+    {
+      "company": "Padeco",
+      "type": "Diseño y Desarrollo Web",
+      "description": "Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas. Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas.",
+      "background": " #292929",
+      "image": ""
+    },
+    {
+      "company": "Patagonia",
+      "type": "Desarrollo Web",
+      "description": "Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas. Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas.",
+      "background": " #292929",
+      "image": ""
+    },  
+    {
+      "company": "Helena Mareque",
+      "type": "Tienda Ecommerce",
+      "description": "Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas. Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas.",
+      "background": "",
+      "image": ""
+    }, 
+    {
+      "company": "The Visual Romance",
+      "type": "Desarrollo Web",
+      "description": "Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas. Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas.",
+      "background": "",
+      "image": ""
+    }, 
+    {
+      "company": "Vero Cuir",
+      "type": "Diseño y Desarrollo Web",
+      "description": "Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas. Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas.",
+      "background": "",
+      "image": ""
+    }, 
+    {
+      "company": "Tortola1947",
+      "type": "Tienda Ecommerce",
+      "description": "Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas. Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas.",
+      "background": "",
+      "image": ""
+    }, 
+    {
+      "company": "CSCMP Spain",
+      "type": "Diseño y Desarrollo Web",
+      "description": "Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas. Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas.",
+      "background": "",
+      "image": ""
+    }, 
+    {
+      "company": "Martoni",
+      "type": "Tienda Ecommerce",
+      "description": "Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas. Campaña Mundial Rusia 2018, torneo 3vs3 con una web dónde los usuarios podían registrar sus euqipos con validaciones previas y bla bla que podemos hacer aca hay que pones más cosillas.",
+      "background": "",
+      "image": ""
+    }, 
+  ]
+}
